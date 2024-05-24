@@ -1,0 +1,31 @@
+note,label
+"Le serveur est en panne, tout est bloqué.",critique
+L'application est lente à charger.,moyen
+Une fonctionnalité mineure ne fonctionne pas.,bas
+La base de données est corrompue.,critique
+La page de connexion prend du temps à s'afficher.,moyen
+Le bouton de téléchargement ne fonctionne pas.,bas
+Le réseau est complètement hors service.,critique
+Il y a un léger décalage dans l'affichage.,bas
+Le système redémarre de manière aléatoire.,critique
+Certains utilisateurs ne peuvent pas se connecter.,moyen
+Les emails ne sont pas envoyés correctement.,moyen
+Le site web est inaccessible pour certains utilisateurs.,critique
+Les notifications push ne fonctionnent pas.,bas
+Les rapports ne sont pas générés comme prévu.,moyen
+Le paiement en ligne ne fonctionne pas.,critique
+Le temps de réponse du serveur est très lent.,moyen
+Des erreurs 500 apparaissent fréquemment.,critique
+L'interface utilisateur est boguée.,bas
+Des fichiers sont manquants dans la base de données.,critique
+Les utilisateurs sont déconnectés automatiquement.,critique
+Le système de sauvegarde ne fonctionne pas.,moyen
+Le processus de login est très lent.,moyen
+Des erreurs de validation des données.,moyen
+Les mises à jour ne sont pas appliquées correctement.,bas
+La recherche dans l'application ne fonctionne pas.,moyen
+Le tableau de bord ne s'affiche pas.,moyen
+Les utilisateurs ne reçoivent pas leurs confirmations par email.,moyen
+Le chargement des images est très lent.,moyen
+Les permissions d'accès sont incorrectes.,moyen
+Le service client ne reçoit pas les messages.,moyen

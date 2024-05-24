@@ -1,0 +1,9 @@
+transformers
+torch
+tensorflow
+tf-keras
+PyMuPDF
+accelerate - U
+pandas
+scikit-learn
+datasets
